@@ -1,0 +1,475 @@
+sektor;rad;kolonne;verdi
+rekruttering;1;Enhet;Academic Work Norway
+rekruttering;1;Målinger;4
+rekruttering;1;Motorer;4
+rekruttering;1;org.nr;990 574 693
+rekruttering;2;Enhet;Jefferson Wells
+rekruttering;2;Målinger;4
+rekruttering;2;Motorer;4
+rekruttering;2;org.nr;ikke registrert
+rekruttering;3;Enhet;Adecco Norge
+rekruttering;3;Målinger;4
+rekruttering;3;Motorer;3
+rekruttering;3;org.nr;935 333 156
+rekruttering;4;Enhet;Bønes Virik
+rekruttering;4;Målinger;4
+rekruttering;4;Motorer;3
+rekruttering;4;org.nr;990 430 349
+rekruttering;5;Enhet;Manpower
+rekruttering;5;Målinger;3
+rekruttering;5;Motorer;3
+rekruttering;5;org.nr;920 968 201
+rekruttering;6;Enhet;Humano
+rekruttering;6;Målinger;3
+rekruttering;6;Motorer;3
+rekruttering;6;org.nr;831 087 722
+rekruttering;7;Enhet;Amrop Norge
+rekruttering;7;Målinger;3
+rekruttering;7;Motorer;3
+rekruttering;7;org.nr;941 242 944
+rekruttering;8;Enhet;BackerSkeie People
+rekruttering;8;Målinger;3
+rekruttering;8;Motorer;3
+rekruttering;8;org.nr;933 030 652
+arbeidsrett;1;Firma;Advokatfirmaet Verito AS
+arbeidsrett;1;Siteringsgrad;7 av 20
+arbeidsrett;1;Motorer;4
+arbeidsrett;2;Firma;Codex Advokat Oslo AS
+arbeidsrett;2;Siteringsgrad;6 av 20
+arbeidsrett;2;Motorer;4
+arbeidsrett;3;Firma;Advokatfirmaet Thommessen
+arbeidsrett;3;Siteringsgrad;6 av 20
+arbeidsrett;3;Motorer;4
+arbeidsrett;4;Firma;Homble Olsby (Littler Advokatfirma AS)
+arbeidsrett;4;Siteringsgrad;6 av 20
+arbeidsrett;4;Motorer;4
+arbeidsrett;5;Firma;Skjerpen Bugge Advokatfirma AS
+arbeidsrett;5;Siteringsgrad;5 av 20
+arbeidsrett;5;Motorer;3
+arbeidsrett;6;Firma;Wiersholm
+arbeidsrett;6;Siteringsgrad;5 av 20
+arbeidsrett;6;Motorer;4
+arbeidsrett;7;Firma;BAHR
+arbeidsrett;7;Siteringsgrad;5 av 20
+arbeidsrett;7;Motorer;4
+arbeidsrett;8;Firma;Advokatfirmaet Hjort
+arbeidsrett;8;Siteringsgrad;4 av 20
+arbeidsrett;8;Motorer;4
+arbeidsrett;9;Firma;Austin Lyngmyr & Co Advokatfirma
+arbeidsrett;9;Siteringsgrad;4 av 20
+arbeidsrett;9;Motorer;3
+arbeidsrett;10;Firma;Advokatfirmaet Tveter og Kløvfjell (Advokat Oslo)
+arbeidsrett;10;Siteringsgrad;4 av 20
+arbeidsrett;10;Motorer;3
+arbeidsrett;11;Firma;Advokatfirmaet Raugland
+arbeidsrett;11;Siteringsgrad;4 av 20
+arbeidsrett;11;Motorer;2
+arbeidsrett;12;Firma;Haavind
+arbeidsrett;12;Siteringsgrad;3 av 20
+arbeidsrett;12;Motorer;3
+arbeidsrett;13;Firma;Elden Advokatfirma
+arbeidsrett;13;Siteringsgrad;3 av 20
+arbeidsrett;13;Motorer;2
+arbeidsrett;14;Firma;Advokatfirmaet Salomon Johansen
+arbeidsrett;14;Siteringsgrad;3 av 20
+arbeidsrett;14;Motorer;2
+arbeidsrett;15;Firma;Simonsen Vogt Wiig
+arbeidsrett;15;Siteringsgrad;3 av 20
+arbeidsrett;15;Motorer;3
+arbeidsrett;16;Firma;Schjødt
+arbeidsrett;16;Siteringsgrad;3 av 20
+arbeidsrett;16;Motorer;3
+arbeidsrett;17;Firma;Helmr · Arntzen de Besche · Wikborg Rein · Nordia Law · Molteberg Nilsen · ArbeidsRettslig Consulting · CMS Kluge
+arbeidsrett;17;Siteringsgrad;2 av 20
+arbeidsrett;17;Motorer;1–2
+arbeidsrett;18;Firma;Bruland · Kvale · Legalis · Lippestad · Advokat Petter Algerøy · Nicolaisen · Advokatene i Håndverkeren · Bjønness & Steen · Aider Legal · Egeland Christie · Galtung-Dysvik · Selmer
+arbeidsrett;18;Siteringsgrad;1 av 20
+arbeidsrett;18;Motorer;1
+regnskap;1;#;1
+regnskap;1;Enhet;Synega Regnskap
+regnskap;1;/20;8
+regnskap;1;Motorer;4 motorer
+regnskap;2;#;1
+regnskap;2;Enhet;Unikum Regnskap AS
+regnskap;2;/20;8
+regnskap;2;Motorer;4 motorer
+regnskap;3;#;1
+regnskap;3;Enhet;Riktigregnskap AS
+regnskap;3;/20;8
+regnskap;3;Motorer;4 motorer
+regnskap;4;#;4
+regnskap;4;Enhet;Regnskap Group AS
+regnskap;4;/20;6
+regnskap;4;Motorer;3 motorer
+regnskap;5;#;4
+regnskap;5;Enhet;VIEW Group
+regnskap;5;/20;6
+regnskap;5;Motorer;3 motorer
+regnskap;6;#;6
+regnskap;6;Enhet;Axis Regnskap AS
+regnskap;6;/20;4
+regnskap;6;Motorer;3 motorer
+regnskap;7;#;6
+regnskap;7;Enhet;DM Regnskap Oslo
+regnskap;7;/20;4
+regnskap;7;Motorer;3 motorer
+regnskap;8;#;8
+regnskap;8;Enhet;On Time Regnskap
+regnskap;8;/20;3
+regnskap;8;Motorer;2 motorer
+regnskap;9;#;9
+regnskap;9;Enhet;Christiania Regnskapskontor
+regnskap;9;/20;1
+regnskap;9;Motorer;1 motor
+regnskap;10;#;9
+regnskap;10;Enhet;ECIT
+regnskap;10;/20;1
+regnskap;10;Motorer;1 motor
+radgivning;1;Selskap;Deloitte
+radgivning;1;Siteringsgrad;14 av 20
+radgivning;1;Motorer;4 motorer
+radgivning;2;Selskap;PwC
+radgivning;2;Siteringsgrad;12 av 20
+radgivning;2;Motorer;4 motorer
+radgivning;3;Selskap;KPMG
+radgivning;3;Siteringsgrad;11 av 20
+radgivning;3;Motorer;4 motorer
+radgivning;4;Selskap;McKinsey & Company
+radgivning;4;Siteringsgrad;11 av 20
+radgivning;4;Motorer;4 motorer
+radgivning;5;Selskap;Boston Consulting Group
+radgivning;5;Siteringsgrad;11 av 20
+radgivning;5;Motorer;4 motorer
+radgivning;6;Selskap;EY
+radgivning;6;Siteringsgrad;10 av 20
+radgivning;6;Motorer;4 motorer
+radgivning;7;Selskap;Bain & Company
+radgivning;7;Siteringsgrad;10 av 20
+radgivning;7;Motorer;4 motorer
+radgivning;8;Selskap;Sopra Steria
+radgivning;8;Siteringsgrad;8 av 20
+radgivning;8;Motorer;4 motorer
+radgivning;9;Selskap;BDO
+radgivning;9;Siteringsgrad;5 av 20
+radgivning;9;Motorer;3 motorer
+radgivning;10;Selskap;Azets
+radgivning;10;Siteringsgrad;4 av 20
+radgivning;10;Motorer;3 motorer
+radgivning;11;Selskap;Considium
+radgivning;11;Siteringsgrad;3 av 20
+radgivning;11;Motorer;2 motorer
+radgivning;12;Selskap;Sprint Consulting
+radgivning;12;Siteringsgrad;3 av 20
+radgivning;12;Motorer;3 motorer
+radgivning;13;Selskap;Bekk
+radgivning;13;Siteringsgrad;3 av 20
+radgivning;13;Motorer;3 motorer
+radgivning;14;Selskap;Accenture
+radgivning;14;Siteringsgrad;3 av 20
+radgivning;14;Motorer;2 motorer
+radgivning;15;Selskap;Rambøll Management Consulting
+radgivning;15;Siteringsgrad;3 av 20
+radgivning;15;Motorer;2 motorer
+radgivning;16;Selskap;Strategy& (PwC)
+radgivning;16;Siteringsgrad;3 av 20
+radgivning;16;Motorer;2 motorer
+radgivning;17;Selskap;EY-Parthenon
+radgivning;17;Siteringsgrad;3 av 20
+radgivning;17;Motorer;2 motorer
+radgivning;18;Selskap;Capgemini · Implement Consulting Group · Uniconsult · Agenda Kaupang · Intelli · NorEkspert · Grant Thornton · RSM Norge · AFF · Kearney · Compete Consulting Group · BEYOND Strategy Consulting
+radgivning;18;Siteringsgrad;2 av 20
+radgivning;18;Motorer;2 motorer
+radgivning;19;Selskap;Nordic Adviser · Nygaard Management Consulting · Ascender · Habberstad · Menon Economics · Oslo Economics · Vista Analyse · Knowit · SpareBank 1 Regnskapshuset
+radgivning;19;Siteringsgrad;1 av 20
+radgivning;19;Motorer;1 motor
+ai-synlighet;1;Aktør;CitationLab
+ai-synlighet;1;Motorer;ChatGPT, Claude
+ai-synlighet;2;Aktør;Solid Media
+ai-synlighet;2;Motorer;Gemini, Perplexity
+immaterialrett;1;Byrå;Zacco NorwaySitert i fire av fire motorer
+immaterialrett;1;Siteringsgrad;7/8
+immaterialrett;2;Byrå;Bryn AarflotSitert i tre av fire motorer — ikke i Perplexity
+immaterialrett;2;Siteringsgrad;6/8
+immaterialrett;3;Byrå;Acapo OnsagersSammenslått aktør (samme org.nr 932 214 636)
+immaterialrett;3;Siteringsgrad;6/8
+immaterialrett;4;Byrå;Håmsø PatentbyråBredt nevnt, men ikke sitert på Perplexity
+immaterialrett;4;Siteringsgrad;5/8
+immaterialrett;5;Byrå;Norsk Patentbyrå
+immaterialrett;5;Siteringsgrad;4/8
+immaterialrett;6;Byrå;Protector IPSynlig på Google Gemini, Claude og Perplexity
+immaterialrett;6;Siteringsgrad;3/8
+naeringseiendom;1;Meglerhus;Eiendomshuset Malling & Co
+naeringseiendom;1;Siteringsgrad;13/20
+naeringseiendom;2;Meglerhus;Akershus Eiendom
+naeringseiendom;2;Siteringsgrad;11/20
+naeringseiendom;3;Meglerhus;Newsec
+naeringseiendom;3;Siteringsgrad;8/20
+naeringseiendom;4;Meglerhus;DNB Næringsmegling*
+naeringseiendom;4;Siteringsgrad;7/20
+naeringseiendom;5;Meglerhus;CBRE
+naeringseiendom;5;Siteringsgrad;6/20
+naeringseiendom;6;Meglerhus;Cushman & Wakefield Realkapital
+naeringseiendom;6;Siteringsgrad;5/20
+arkitekt;1;#;1
+arkitekt;1;Kontor;DARK Arkitekter
+arkitekt;1;/20;6
+arkitekt;1;Motorer;4 motorer
+arkitekt;2;#;2
+arkitekt;2;Kontor;Nordic Office of Architecture
+arkitekt;2;/20;5
+arkitekt;2;Motorer;4 motorer
+arkitekt;3;#;3
+arkitekt;3;Kontor;Snøhetta
+arkitekt;3;/20;4
+arkitekt;3;Motorer;3 motorer
+arkitekt;4;#;4
+arkitekt;4;Kontor;Arkitektene Dahl og Myrhol · Mad arkitekter · Sonark Arkitekttjenester
+arkitekt;4;/20;3
+arkitekt;4;Motorer;2 motorer
+arkitekt;5;#;7
+arkitekt;5;Kontor;Oslotre
+arkitekt;5;/20;3
+arkitekt;5;Motorer;1 motor
+arkitekt;6;#;8
+arkitekt;6;Kontor;A-lab · Hansen og Holm Arkitekter · KOHT Arkitekter · LINK Arkitektur · LPO Arkitekter · Talo Arkitektur
+arkitekt;6;/20;2
+arkitekt;6;Motorer;2 motorer
+arkitekt;7;#;14
+arkitekt;7;Kontor;Delta Arkitekter · HRTB Arkitekter
+arkitekt;7;/20;2
+arkitekt;7;Motorer;1 motor
+arkitekt;8;#;16
+arkitekt;8;Kontor;A38 Arkitekter · Dyrø og Moen Arkitekter · Helen & Hard · Hille Melbye Arkitekter · HusAr Arkitekter · Kristin Jarmund Arkitekter · Lund Hagem Arkitekter · Lund+Slaatto · Nuno Arkitektur · Oslo Works
+arkitekt;8;/20;1
+arkitekt;8;Motorer;1 motor
+forretningsjus;1;#;1
+forretningsjus;1;Firma;Wiersholm
+forretningsjus;1;/20;5
+forretningsjus;1;Stabile;4
+forretningsjus;1;Motorer;4 motorer
+forretningsjus;2;#;2
+forretningsjus;2;Firma;BAHR · Thommessen
+forretningsjus;2;/20;4
+forretningsjus;2;Stabile;4
+forretningsjus;2;Motorer;4 motorer
+forretningsjus;3;#;4
+forretningsjus;3;Firma;Schjødt
+forretningsjus;3;/20;4
+forretningsjus;3;Stabile;3
+forretningsjus;3;Motorer;4 motorer
+forretningsjus;4;#;4
+forretningsjus;4;Firma;Kvale
+forretningsjus;4;/20;4
+forretningsjus;4;Stabile;3
+forretningsjus;4;Motorer;3 motorer
+forretningsjus;5;#;6
+forretningsjus;5;Firma;Wikborg Rein
+forretningsjus;5;/20;3
+forretningsjus;5;Stabile;3
+forretningsjus;5;Motorer;3 motorer
+forretningsjus;6;#;7
+forretningsjus;6;Firma;CLP · Haavind
+forretningsjus;6;/20;3
+forretningsjus;6;Stabile;2
+forretningsjus;6;Motorer;3 motorer
+forretningsjus;7;#;9
+forretningsjus;7;Firma;Aider Legal
+forretningsjus;7;/20;3
+forretningsjus;7;Stabile;0
+forretningsjus;7;Motorer;3 motorer
+forretningsjus;8;#;9
+forretningsjus;8;Firma;Ræder Bing
+forretningsjus;8;/20;3
+forretningsjus;8;Stabile;0
+forretningsjus;8;Motorer;2 motorer
+forretningsjus;9;#;11
+forretningsjus;9;Firma;Simonsen Vogt Wiig
+forretningsjus;9;/20;2
+forretningsjus;9;Stabile;2
+forretningsjus;9;Motorer;2 motorer
+forretningsjus;10;#;12
+forretningsjus;10;Firma;Selmer
+forretningsjus;10;/20;2
+forretningsjus;10;Stabile;1
+forretningsjus;10;Motorer;2 motorer
+forretningsjus;11;#;13
+forretningsjus;11;Firma;Advokatfirma Kontrakt · Brækhus
+forretningsjus;11;/20;2
+forretningsjus;11;Stabile;0
+forretningsjus;11;Motorer;2 motorer
+forretningsjus;12;#;15
+forretningsjus;12;Firma;CMS Kluge · Deloitte Advokatfirma · Hjort · Law.no · Stiegler
+forretningsjus;12;/20;1
+forretningsjus;12;Stabile;1
+forretningsjus;12;Motorer;1 motor
+forretningsjus;13;#;20
+forretningsjus;13;Firma;Grette
+forretningsjus;13;/20;1
+forretningsjus;13;Stabile;0
+forretningsjus;13;Motorer;1 motor
+anskaffelsesrett;1;#;1
+anskaffelsesrett;1;Firma;CMS Kluge
+anskaffelsesrett;1;Stabile;7
+anskaffelsesrett;1;/20;10
+anskaffelsesrett;1;Motorer;4 motorer
+anskaffelsesrett;2;#;2
+anskaffelsesrett;2;Firma;Haavind
+anskaffelsesrett;2;Stabile;5
+anskaffelsesrett;2;/20;8
+anskaffelsesrett;2;Motorer;4 motorer
+anskaffelsesrett;3;#;3
+anskaffelsesrett;3;Firma;Thommessen
+anskaffelsesrett;3;Stabile;4
+anskaffelsesrett;3;/20;11
+anskaffelsesrett;3;Motorer;4 motorer
+anskaffelsesrett;4;#;4
+anskaffelsesrett;4;Firma;Wikborg Rein
+anskaffelsesrett;4;Stabile;4
+anskaffelsesrett;4;/20;6
+anskaffelsesrett;4;Motorer;3 motorer
+anskaffelsesrett;5;#;5
+anskaffelsesrett;5;Firma;Arntzen Grette
+anskaffelsesrett;5;Stabile;3
+anskaffelsesrett;5;/20;5
+anskaffelsesrett;5;Motorer;3 motorer
+anskaffelsesrett;6;#;6
+anskaffelsesrett;6;Firma;Føyen
+anskaffelsesrett;6;Stabile;2
+anskaffelsesrett;6;/20;5
+anskaffelsesrett;6;Motorer;3 motorer
+anskaffelsesrett;7;#;7
+anskaffelsesrett;7;Firma;Wiersholm
+anskaffelsesrett;7;Stabile;2
+anskaffelsesrett;7;/20;2
+anskaffelsesrett;7;Motorer;2 motorer
+anskaffelsesrett;8;#;7
+anskaffelsesrett;8;Firma;KPMG Law · Simonsen Vogt Wiig
+anskaffelsesrett;8;Stabile;2
+anskaffelsesrett;8;/20;2
+anskaffelsesrett;8;Motorer;1 motor
+anskaffelsesrett;9;#;10
+anskaffelsesrett;9;Firma;SANDS
+anskaffelsesrett;9;Stabile;1
+anskaffelsesrett;9;/20;7
+anskaffelsesrett;9;Motorer;3 motorer
+anskaffelsesrett;10;#;11
+anskaffelsesrett;10;Firma;Hjort
+anskaffelsesrett;10;Stabile;1
+anskaffelsesrett;10;/20;4
+anskaffelsesrett;10;Motorer;3 motorer
+anskaffelsesrett;11;#;12
+anskaffelsesrett;11;Firma;Salomon Johansen
+anskaffelsesrett;11;Stabile;1
+anskaffelsesrett;11;/20;2
+anskaffelsesrett;11;Motorer;2 motorer
+anskaffelsesrett;12;#;13
+anskaffelsesrett;12;Firma;Berngaard · Halvorsen & Co
+anskaffelsesrett;12;Stabile;1
+anskaffelsesrett;12;/20;2
+anskaffelsesrett;12;Motorer;1 motor
+anskaffelsesrett;13;#;15
+anskaffelsesrett;13;Firma;Stiegler
+anskaffelsesrett;13;Stabile;1
+anskaffelsesrett;13;/20;1
+anskaffelsesrett;13;Motorer;1 motor
+anskaffelsesrett;14;#;16
+anskaffelsesrett;14;Firma;Kvale
+anskaffelsesrett;14;Stabile;0
+anskaffelsesrett;14;/20;3
+anskaffelsesrett;14;Motorer;2 motorer
+anskaffelsesrett;15;#;17
+anskaffelsesrett;15;Firma;Selmer · Ræder Bing
+anskaffelsesrett;15;Stabile;0
+anskaffelsesrett;15;/20;2
+anskaffelsesrett;15;Motorer;2 motorer
+anskaffelsesrett;16;#;19
+anskaffelsesrett;16;Firma;Glittertind
+anskaffelsesrett;16;Stabile;0
+anskaffelsesrett;16;/20;2
+anskaffelsesrett;16;Motorer;1 motor
+anskaffelsesrett;17;#;20
+anskaffelsesrett;17;Firma;BAHR · DLA Piper
+anskaffelsesrett;17;Stabile;0
+anskaffelsesrett;17;/20;1
+anskaffelsesrett;17;Motorer;1 motor
+entrepriserett;1;Advokatfirma;Advokatfirmaet Thommessen
+entrepriserett;1;Stabile celler;6 av 20
+entrepriserett;1;T1 26.08;7
+entrepriserett;1;T2 27.08;9
+entrepriserett;1;Motorer (begge trekninger);4
+entrepriserett;2;Advokatfirma;Advokatfirmaet Berngaard
+entrepriserett;2;Stabile celler;3 av 20
+entrepriserett;2;T1 26.08;5
+entrepriserett;2;T2 27.08;6
+entrepriserett;2;Motorer (begge trekninger);3
+entrepriserett;3;Advokatfirma;Codex Advokat Oslo
+entrepriserett;3;Stabile celler;3 av 20
+entrepriserett;3;T1 26.08;7
+entrepriserett;3;T2 27.08;3
+entrepriserett;3;Motorer (begge trekninger);3
+entrepriserett;4;Advokatfirma;Brækhus Advokatfirma
+entrepriserett;4;Stabile celler;3 av 20
+entrepriserett;4;T1 26.08;4
+entrepriserett;4;T2 27.08;6
+entrepriserett;4;Motorer (begge trekninger);4
+entrepriserett;5;Advokatfirma;Advokatfirmaet Hjort
+entrepriserett;5;Stabile celler;3 av 20
+entrepriserett;5;T1 26.08;3
+entrepriserett;5;T2 27.08;4
+entrepriserett;5;Motorer (begge trekninger);2
+entrepriserett;6;Advokatfirma;SANDS Advokatfirma
+entrepriserett;6;Stabile celler;2 av 20
+entrepriserett;6;T1 26.08;5
+entrepriserett;6;T2 27.08;5
+entrepriserett;6;Motorer (begge trekninger);3
+entrepriserett;7;Advokatfirma;Arntzen Grette
+entrepriserett;7;Stabile celler;2 av 20
+entrepriserett;7;T1 26.08;2
+entrepriserett;7;T2 27.08;6
+entrepriserett;7;Motorer (begge trekninger);3
+entrepriserett;8;Advokatfirma;Ryger Advokatfirma
+entrepriserett;8;Stabile celler;2 av 20
+entrepriserett;8;T1 26.08;2
+entrepriserett;8;T2 27.08;2
+entrepriserett;8;Motorer (begge trekninger);1
+entrepriserett;9;Advokatfirma;Stiegler Advokatfirma
+entrepriserett;9;Stabile celler;2 av 20
+entrepriserett;9;T1 26.08;2
+entrepriserett;9;T2 27.08;2
+entrepriserett;9;Motorer (begge trekninger);1
+strafferett;1;Firma;Elden Advokatfirma
+strafferett;1;Siteringsgrad;7 av 20
+strafferett;1;Motorer;4
+strafferett;2;Firma;Advokatfirmaet Sulland
+strafferett;2;Siteringsgrad;7 av 20
+strafferett;2;Motorer;3
+strafferett;3;Firma;Casus Advokatfirma
+strafferett;3;Siteringsgrad;6 av 20
+strafferett;3;Motorer;3
+strafferett;4;Firma;Advokatfirmaet Hjort
+strafferett;4;Siteringsgrad;5 av 20
+strafferett;4;Motorer;3
+strafferett;5;Firma;Resolve Partners Advokatfirma
+strafferett;5;Siteringsgrad;4 av 20
+strafferett;5;Motorer;2
+strafferett;6;Firma;Advokatfirmaet Hellander
+strafferett;6;Siteringsgrad;3 av 20
+strafferett;6;Motorer;3
+strafferett;7;Firma;Advokatfirmaet Lippestad
+strafferett;7;Siteringsgrad;3 av 20
+strafferett;7;Motorer;3
+strafferett;8;Firma;Matrix Advokater
+strafferett;8;Siteringsgrad;3 av 20
+strafferett;8;Motorer;2
+strafferett;9;Firma;Advokatfirmaet Rogstad
+strafferett;9;Siteringsgrad;3 av 20
+strafferett;9;Motorer;2
+strafferett;10;Firma;Advokatfirmaet Saeme
+strafferett;10;Siteringsgrad;3 av 20
+strafferett;10;Motorer;2
+strafferett;11;Firma;Adalat · Advokatene i Oslo · Paal Berg Helland · Mageli · Schjødt · Thommessen · de Vibe · Bratlien · Brodtkorb · Dietrichson
+strafferett;11;Siteringsgrad;2 av 20
+strafferett;11;Motorer;1–2
+strafferett;12;Firma;Bache-Wiig | Mæland · Berg Ditlev-Simonsen · Dalan · Danielsen & Co · Kirkholm · Nordia Law · Oslo Advokat RUV · Rede Advokater · Storrvik · Vaag & Zimmer · Wiersholm · Wikborg Rein
+strafferett;12;Siteringsgrad;1 av 20
+strafferett;12;Motorer;1
