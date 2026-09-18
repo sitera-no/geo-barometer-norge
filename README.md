@@ -1,5 +1,7 @@
 # geo-barometer-norge
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22837123.svg)](https://doi.org/10.5281/zenodo.22837123)
+
 Published results of the Sitera GEO barometers: how often Norwegian B2B firms are named by
 generative AI engines when a buyer asks for a supplier.
 
