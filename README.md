@@ -1,6 +1,6 @@
 # geo-barometer-norge
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22837123.svg)](https://doi.org/10.5281/zenodo.22837123)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22837122.svg)](https://doi.org/10.5281/zenodo.22837122)
 
 Published results of the Sitera GEO barometers: how often Norwegian B2B firms are named by
 generative AI engines when a buyer asks for a supplier.
@@ -73,7 +73,7 @@ Known consequences, none of them corrected:
 - Some rows group several firms in one cell, separated by `·`. That is how the pages publish the
   lower tiers, and splitting them would change what was published.
 - `ai-synlighet` has no numeric score column — its page reports which engines named each actor.
-- `it-saas` has no table on the page and therefore no rows here.
+- `it-saas` utgave 1 (June 2026) had no table on its page; utgave 2 (September 2026, five engines) is included with the column headings as printed (`Nivå`, `Selskap`, `Siteringsgrad`).
 - In `immaterialrett`, the firm cell contains an inline annotation glued to the name
   (`Zacco NorwaySitert i fire av fire motorer`). That is the page's own markup, preserved.
 
