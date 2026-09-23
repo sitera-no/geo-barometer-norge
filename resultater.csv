@@ -1,36 +1,61 @@
 sektor;rad;kolonne;verdi
-rekruttering;1;Enhet;Academic Work Norway
-rekruttering;1;Målinger;4
-rekruttering;1;Motorer;4
-rekruttering;1;org.nr;990 574 693
-rekruttering;2;Enhet;Jefferson Wells
-rekruttering;2;Målinger;4
-rekruttering;2;Motorer;4
-rekruttering;2;org.nr;ikke registrert
-rekruttering;3;Enhet;Adecco Norge
-rekruttering;3;Målinger;4
+rekruttering;1;Foretak;Manpower
+rekruttering;1;Siteringsgrad;6 av 20
+rekruttering;1;Motorer;3
+rekruttering;2;Foretak;Adecco
+rekruttering;2;Siteringsgrad;5 av 20
+rekruttering;2;Motorer;3
+rekruttering;3;Foretak;Amrop Norge
+rekruttering;3;Siteringsgrad;5 av 20
 rekruttering;3;Motorer;3
-rekruttering;3;org.nr;935 333 156
-rekruttering;4;Enhet;Bønes Virik
-rekruttering;4;Målinger;4
+rekruttering;4;Foretak;Mercuri Urval
+rekruttering;4;Siteringsgrad;5 av 20
 rekruttering;4;Motorer;3
-rekruttering;4;org.nr;990 430 349
-rekruttering;5;Enhet;Manpower
-rekruttering;5;Målinger;3
+rekruttering;5;Foretak;Randstad
+rekruttering;5;Siteringsgrad;5 av 20
 rekruttering;5;Motorer;3
-rekruttering;5;org.nr;920 968 201
-rekruttering;6;Enhet;Humano
-rekruttering;6;Målinger;3
-rekruttering;6;Motorer;3
-rekruttering;6;org.nr;831 087 722
-rekruttering;7;Enhet;Amrop Norge
-rekruttering;7;Målinger;3
-rekruttering;7;Motorer;3
-rekruttering;7;org.nr;941 242 944
-rekruttering;8;Enhet;BackerSkeie People
-rekruttering;8;Målinger;3
-rekruttering;8;Motorer;3
-rekruttering;8;org.nr;933 030 652
+rekruttering;6;Foretak;Egon Zehnder
+rekruttering;6;Siteringsgrad;4 av 20
+rekruttering;6;Motorer;4
+rekruttering;7;Foretak;Heidrick & Struggles
+rekruttering;7;Siteringsgrad;4 av 20
+rekruttering;7;Motorer;4
+rekruttering;8;Foretak;Korn Ferry
+rekruttering;8;Siteringsgrad;4 av 20
+rekruttering;8;Motorer;4
+rekruttering;9;Foretak;Spencer Stuart
+rekruttering;9;Siteringsgrad;4 av 20
+rekruttering;9;Motorer;4
+rekruttering;10;Foretak;Academic Work Norway
+rekruttering;10;Siteringsgrad;4 av 20
+rekruttering;10;Motorer;3
+rekruttering;11;Foretak;Capus
+rekruttering;11;Siteringsgrad;4 av 20
+rekruttering;11;Motorer;3
+rekruttering;12;Foretak;Dreamwork Group
+rekruttering;12;Siteringsgrad;4 av 20
+rekruttering;12;Motorer;3
+rekruttering;13;Foretak;Humano
+rekruttering;13;Siteringsgrad;4 av 20
+rekruttering;13;Motorer;3
+rekruttering;14;Foretak;Visindi
+rekruttering;14;Siteringsgrad;4 av 20
+rekruttering;14;Motorer;3
+rekruttering;15;Foretak;Nigel Wright Consultancy Norway
+rekruttering;15;Siteringsgrad;3 av 20
+rekruttering;15;Motorer;3
+rekruttering;16;Foretak;Jobzone Norge · Personalhuset Staffing Group
+rekruttering;16;Siteringsgrad;3 av 20
+rekruttering;16;Motorer;2
+rekruttering;17;Foretak;Din Rekruttering · Experis · Habberstad · Jefferson Wells · Jobway · Skogstad & Co · Sperton · Technogarden · Temp-Team
+rekruttering;17;Siteringsgrad;2 av 20
+rekruttering;17;Motorer;2
+rekruttering;18;Foretak;Ansettr · Boyden · Russell Reynolds · Toptemp
+rekruttering;18;Siteringsgrad;2 av 20
+rekruttering;18;Motorer;1
+rekruttering;19;Foretak;Agile Gruppen · InterSearch Norway · ISCO Group · NES Fircroft · Odgers Berndtson · Talent Sourcing · Teft Rekruttering · The Assessment Company Norge · Visere
+rekruttering;19;Siteringsgrad;1 av 20
+rekruttering;19;Motorer;1
 arbeidsrett;1;Firma;Advokatfirmaet Verito AS
 arbeidsrett;1;Siteringsgrad;7 av 20
 arbeidsrett;1;Motorer;4
@@ -437,12 +462,12 @@ entrepriserett;9;Stabile celler;2 av 20
 entrepriserett;9;T1 26.08;2
 entrepriserett;9;T2 27.08;2
 entrepriserett;9;Motorer (begge trekninger);1
-strafferett;1;Firma;Elden Advokatfirma
-strafferett;1;Siteringsgrad;7 av 20
-strafferett;1;Motorer;4
-strafferett;2;Firma;Advokatfirmaet Sulland
+strafferett;1;Firma;Advokatfirmaet Sulland
+strafferett;1;Siteringsgrad;8 av 20
+strafferett;1;Motorer;3
+strafferett;2;Firma;Elden Advokatfirma
 strafferett;2;Siteringsgrad;7 av 20
-strafferett;2;Motorer;3
+strafferett;2;Motorer;4
 strafferett;3;Firma;Casus Advokatfirma
 strafferett;3;Siteringsgrad;6 av 20
 strafferett;3;Motorer;3
@@ -467,9 +492,51 @@ strafferett;9;Motorer;2
 strafferett;10;Firma;Advokatfirmaet Saeme
 strafferett;10;Siteringsgrad;3 av 20
 strafferett;10;Motorer;2
-strafferett;11;Firma;Adalat · Advokatene i Oslo · Paal Berg Helland · Mageli · Schjødt · Thommessen · de Vibe · Bratlien · Brodtkorb · Dietrichson
+strafferett;11;Firma;Adalat · Advokatene i Oslo · Paal Berg Helland · Schjødt · Thommessen · de Vibe · Bratlien · Brodtkorb · Dietrichson
 strafferett;11;Siteringsgrad;2 av 20
 strafferett;11;Motorer;1–2
-strafferett;12;Firma;Bache-Wiig | Mæland · Berg Ditlev-Simonsen · Dalan · Danielsen & Co · Kirkholm · Nordia Law · Oslo Advokat RUV · Rede Advokater · Storrvik · Vaag & Zimmer · Wiersholm · Wikborg Rein
+strafferett;12;Firma;Jan Aanerød · Bache-Wiig | Mæland · Berg Ditlev-Simonsen · Dalan · Henjum · Kirkholm · Nordia Law · Oslo Advokat RUV · Rede Advokater · Staff · Storrvik · Vaag & Zimmer · Wiersholm · Wikborg Rein
 strafferett;12;Siteringsgrad;1 av 20
 strafferett;12;Motorer;1
+it-saas;1;Nivå;Nevnt oftest (6–15 av 25)
+it-saas;1;Selskap;Bouvet
+it-saas;1;Siteringsgrad;15 av 25
+it-saas;2;Nivå;Nevnt oftest (6–15 av 25)
+it-saas;2;Selskap;Sopra Steria
+it-saas;2;Siteringsgrad;15 av 25
+it-saas;3;Nivå;Nevnt oftest (6–15 av 25)
+it-saas;3;Selskap;Computas
+it-saas;3;Siteringsgrad;9 av 25
+it-saas;4;Nivå;Nevnt oftest (6–15 av 25)
+it-saas;4;Selskap;Accenture
+it-saas;4;Siteringsgrad;7 av 25
+it-saas;5;Nivå;Nevnt oftest (6–15 av 25)
+it-saas;5;Selskap;Capgemini
+it-saas;5;Siteringsgrad;7 av 25
+it-saas;6;Nivå;Nevnt oftest (6–15 av 25)
+it-saas;6;Selskap;Bekk
+it-saas;6;Siteringsgrad;6 av 25
+it-saas;7;Nivå;Nevnt oftest (6–15 av 25)
+it-saas;7;Selskap;Itera
+it-saas;7;Siteringsgrad;6 av 25
+it-saas;8;Nivå;Nevnt oftest (6–15 av 25)
+it-saas;8;Selskap;Knowit
+it-saas;8;Siteringsgrad;6 av 25
+it-saas;9;Nivå;Nevnt jevnlig (3–5 av 25)
+it-saas;9;Selskap;Crayon
+it-saas;9;Siteringsgrad;5 av 25
+it-saas;10;Nivå;Nevnt jevnlig (3–5 av 25)
+it-saas;10;Selskap;Frend
+it-saas;10;Siteringsgrad;4 av 25
+it-saas;11;Nivå;Nevnt jevnlig (3–5 av 25)
+it-saas;11;Selskap;Webstep
+it-saas;11;Siteringsgrad;4 av 25
+it-saas;12;Nivå;Nevnt jevnlig (3–5 av 25)
+it-saas;12;Selskap;Capra · Integral Consulting · Miles · Netcompany Norge · Netlight · Tietoevry
+it-saas;12;Siteringsgrad;3 av 25
+it-saas;13;Nivå;Nevnt av og til (1–2 av 25, alfabetisk)
+it-saas;13;Selskap;Arktaria · Arribatec · CGI Norge · Kantega · Nimtech · Ramora
+it-saas;13;Siteringsgrad;2 av 25
+it-saas;14;Nivå;Nevnt av og til (1–2 av 25, alfabetisk)
+it-saas;14;Selskap;A-2 · Aztek Consulting · CloudNorway · DIRA · Holte Consulting · Intelli · ITverket · Senitel Consulting · Solea · Sysint · Variant · XLENT · Yne
+it-saas;14;Siteringsgrad;1 av 25

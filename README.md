@@ -14,13 +14,18 @@ Protocol: [sitering-metoden](https://github.com/sitera-no/sitering-metoden).
 
 ## What this is
 
-Thirteen sector barometers, published on sitera.no between June and September 2026, in
-machine-readable form. Four engines — ChatGPT, Gemini, Claude, Perplexity — asked a frozen set
-of buyer questions in logged-out browser sessions, most sectors in two draws on separate days.
+Sector barometers published on sitera.no since June 2026, in machine-readable form
+(thirteen at the 18.09.2026 extraction; rekruttering utgave 3, strafferett utgave 1 and it-saas
+utgave 2 — five engines — are added in the release of 23.09.2026). Four engines — ChatGPT, Gemini, Claude, Perplexity — asked a frozen set of buyer questions in
+browser sessions without personalisation, most sectors in two draws on separate days. Editions
+measured from 19.09.2026 use five engines (+ Copilot) and a denominator of 25 per draw; they are
+not comparable with the 20-cell editions and are never presented as a trend.
 
-**This is the published aggregate, not the raw measurement matrix.** Each barometer page reports
+**Editions up to 21.09.2026 are the published aggregate, not the raw measurement matrix.** From
+23.09.2026 each new edition ships its cell-level matrix (`matriser/<sektor>-u<n>-<dato>.csv`), with
+entities below the publication threshold pseudonymised. This edition uses the 11-column schema in force on 21.09.2026; editions from 23.09.2026 use the 14-column schema of sitering-metoden. Both draws are published; the figure on the page is the T2 (21.09) draw. Each barometer page reports
 how many cells a firm was named in (`7 av 20`); it does not publish which specific
-question × engine cells those were. The cell-level matrices are not in this repository.
+question × engine cells those were.
 
 ---
 
@@ -51,7 +56,7 @@ from the pages should expect to make the same judgement calls.
 sektor;rad;kolonne;verdi
 ```
 
-474 rows. Long format on purpose.
+541 rows. Long format on purpose.
 
 The thirteen pages do not share a table structure. Some publish a single citation count, some
 publish T1 and T2 separately, some add a stability column, some add an org.nr column, some rank
