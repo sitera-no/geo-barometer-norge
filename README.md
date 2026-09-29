@@ -16,7 +16,8 @@ Protocol: [sitering-metoden](https://github.com/sitera-no/sitering-metoden).
 
 Sector barometers published on sitera.no since June 2026, in machine-readable form
 (thirteen at the 18.09.2026 extraction; rekruttering utgave 3, strafferett utgave 1 and it-saas
-utgave 2 — five engines — are added in the release of 23.09.2026). Four engines — ChatGPT, Gemini, Claude, Perplexity — asked a frozen set of buyer questions in
+utgave 2 — five engines — are added in the release of 23.09.2026; forretningsjus utgave 2 — five engines, draws 28.09 and 29.09.2026 — is added in the next
+release). Four engines — ChatGPT, Gemini, Claude, Perplexity — asked a frozen set of buyer questions in
 browser sessions without personalisation, most sectors in two draws on separate days. Editions
 measured from 19.09.2026 use five engines (+ Copilot) and a denominator of 25 per draw; they are
 not comparable with the 20-cell editions and are never presented as a trend.
@@ -72,6 +73,12 @@ Known consequences, none of them corrected:
 - Denominators differ: 20 cells in most sectors, 8 in immaterialrett.
 - Some rows group several firms in one cell, separated by `·`. That is how the pages publish the
   lower tiers, and splitting them would change what was published.
+- `forretningsjus` rows are utgave 1 (August 2026, four engines, `/20`). The page now shows utgave 2,
+  stored as `forretningsjus-u2` (five engines, `/25`) with its questions under the same key and both
+  draws in `matriser/forretningsjus-u2-2026-09-28.csv` and `…-09-29.csv` (14-column schema). The two
+  editions are not compared figure for figure.
+- `forretningsjus-u2` has no source file (`kilder-…`): the sources displayed with each answer were not
+  recorded row by row during these two draws. The `kilde` column says whether the engine searched.
 - `ai-synlighet` has no numeric score column — its page reports which engines named each actor.
 - `it-saas` utgave 1 (June 2026) had no table on its page; utgave 2 (September 2026, five engines) is included with the column headings as printed (`Nivå`, `Selskap`, `Siteringsgrad`).
 - In `immaterialrett`, the firm cell contains an inline annotation glued to the name
