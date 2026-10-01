@@ -79,6 +79,8 @@ Known consequences, none of them corrected:
   editions are not compared figure for figure.
 - `forretningsjus-u2` has no source file (`kilder-…`): the sources displayed with each answer were not
   recorded row by row during these two draws. The `kilde` column says whether the engine searched.
+- `forretningsjus-u2` matrices have an empty `note` column, as in the it-saas matrices: coding notes are
+  internal. Alias resolution is carried by `alias_capte` → `entitet` and `orgnr`.
 - `ai-synlighet` has no numeric score column — its page reports which engines named each actor.
 - `it-saas` utgave 1 (June 2026) had no table on its page; utgave 2 (September 2026, five engines) is included with the column headings as printed (`Nivå`, `Selskap`, `Siteringsgrad`).
 - In `immaterialrett`, the firm cell contains an inline annotation glued to the name

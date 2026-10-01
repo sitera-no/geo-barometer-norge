@@ -1,103 +1,103 @@
 dato;tid;trekning;sektor;sporsmal;motor;modell;geo;alias_capte;entitet;orgnr;kategori;kilde;note
-28.09.2026;;T1;forretningsjus;Q1;ChatGPT;gratis uten konto;Oslo;Thommessen;Thommessen;957423248;advokat;sok;kart-kort 1 + liste nr 1 | kartpunkt uten lesbart navn, ikke kodet (regel 2)
-28.09.2026;;T1;forretningsjus;Q1;ChatGPT;gratis uten konto;Oslo;Wiersholm;Wiersholm;981371593;advokat;sok;kart-kort 2 + liste nr 2 | kartpunkt uten lesbart navn, ikke kodet (regel 2)
-28.09.2026;;T1;forretningsjus;Q1;ChatGPT;gratis uten konto;Oslo;Wikborg Rein;Wikborg Rein;916782195;advokat;;liste nr 3 | kartpunkt uten lesbart navn, ikke kodet (regel 2)
-28.09.2026;;T1;forretningsjus;Q1;ChatGPT;gratis uten konto;Oslo;Brækhus;Brækhus;933326071;advokat;sok;liste nr 4 | kartpunkt uten lesbart navn, ikke kodet (regel 2)
-28.09.2026;;T1;forretningsjus;Q1;ChatGPT;gratis uten konto;Oslo;Nordia Law;Nordia Law;919371684;advokat;sok;liste nr 5 | kartpunkt uten lesbart navn, ikke kodet (regel 2)
+28.09.2026;;T1;forretningsjus;Q1;ChatGPT;gratis uten konto;Oslo;Thommessen;Thommessen;957423248;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;ChatGPT;gratis uten konto;Oslo;Wiersholm;Wiersholm;981371593;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;ChatGPT;gratis uten konto;Oslo;Wikborg Rein;Wikborg Rein;916782195;advokat;;
+28.09.2026;;T1;forretningsjus;Q1;ChatGPT;gratis uten konto;Oslo;Brækhus;Brækhus;933326071;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;ChatGPT;gratis uten konto;Oslo;Nordia Law;Nordia Law;919371684;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q1;ChatGPT;gratis uten konto;Oslo;0c147f57dcf0;0c147f57dcf0;;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q1;ChatGPT;gratis uten konto;Oslo;baa4019ff70e;baa4019ff70e;;advokat;sok;
-28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Thommessen;Thommessen;957423248;advokat;sok;toppsjikt
-28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Wikborg Rein;Wikborg Rein;916782195;advokat;sok;toppsjikt
-28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Schjødt;Schjødt;996918122;advokat;sok;toppsjikt
-28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Wiersholm;Wiersholm;981371593;advokat;sok;toppsjikt
-28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;BAHR;BAHR;919513063;advokat;sok;toppsjikt
-28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Selmer;Selmer;920969798;advokat;sok;toppsjikt
-28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Brækhus;Brækhus;933326071;advokat;sok;mellomstore
-28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Codex Advokat;Codex Advokat;995684926;advokat;sok;mellomstore
-28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Sands;Sands;935597404;advokat;sok;mellomstore
-28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Arntzen de Besche;Arntzen Grette;982409705;advokat;sok;mellomstore | alias → Arntzen Grette (Enhetsregisteret)
-28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Wahl-Larsen;Wahl-Larsen;988987654;advokat;sok;boutique f.eks.
+28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Thommessen;Thommessen;957423248;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Wikborg Rein;Wikborg Rein;916782195;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Schjødt;Schjødt;996918122;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Wiersholm;Wiersholm;981371593;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;BAHR;BAHR;919513063;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Selmer;Selmer;920969798;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Brækhus;Brækhus;933326071;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Codex Advokat;Codex Advokat;995684926;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Sands;Sands;935597404;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Arntzen de Besche;Arntzen Grette;982409705;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;Wahl-Larsen;Wahl-Larsen;988987654;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q1;Gemini;Flash-Lite;Oslo;1ab9a918765a;1ab9a918765a;;advokat;sok;
-28.09.2026;;T1;forretningsjus;Q1;Perplexity;standard gratis avansert søk;Oslo;Thommessen;Thommessen;957423248;advokat;sok;kort anbefaling + tabell
-28.09.2026;;T1;forretningsjus;Q1;Perplexity;standard gratis avansert søk;Oslo;Wiersholm;Wiersholm;981371593;advokat;sok;kort anbefaling + tabell
-28.09.2026;;T1;forretningsjus;Q1;Perplexity;standard gratis avansert søk;Oslo;Schjødt;Schjødt;996918122;advokat;sok;kort anbefaling + tabell + førstevalg
-28.09.2026;;T1;forretningsjus;Q1;Perplexity;standard gratis avansert søk;Oslo;Wikborg Rein;Wikborg Rein;916782195;advokat;sok;tabell
-28.09.2026;;T1;forretningsjus;Q1;Perplexity;standard gratis avansert søk;Oslo;BAHR;BAHR;919513063;advokat;sok;tabell
+28.09.2026;;T1;forretningsjus;Q1;Perplexity;standard gratis avansert søk;Oslo;Thommessen;Thommessen;957423248;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Perplexity;standard gratis avansert søk;Oslo;Wiersholm;Wiersholm;981371593;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Perplexity;standard gratis avansert søk;Oslo;Schjødt;Schjødt;996918122;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Perplexity;standard gratis avansert søk;Oslo;Wikborg Rein;Wikborg Rein;916782195;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Perplexity;standard gratis avansert søk;Oslo;BAHR;BAHR;919513063;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q1;Perplexity;standard gratis avansert søk;Oslo;b4fcffa3b11c;b4fcffa3b11c;;advokat;sok;
-28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Wiersholm;Wiersholm;981371593;advokat;;store
-28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Thommessen;Thommessen;957423248;advokat;;store
-28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;BAHR;BAHR;919513063;advokat;;store
-28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Wikborg Rein;Wikborg Rein;916782195;advokat;;store
-28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Schjødt;Schjødt;996918122;advokat;;store
-28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Arntzen de Besche;Arntzen Grette;982409705;advokat;;store (+ Grette nevnt i mellomstore, samme enhet) | alias → Arntzen Grette (Enhetsregisteret)
-28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Kvale;Kvale;947996053;advokat;;mellomstore
-28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Selmer;Selmer;920969798;advokat;;mellomstore
-28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Ræder Bing;Ræder Bing;919100265;advokat;;mellomstore «Ræder»
-28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Simonsen Vogt Wiig;Simonsen Vogt Wiig;898783812;advokat;;mellomstore
-28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;CMS Kluge;CMS Kluge;913296117;advokat;;mellomstore
-28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;BAHR;BAHR;919513063;advokat;sok;ledende
-28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Thommessen;Thommessen;957423248;advokat;sok;ledende + anbefaling nr 2
-28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Wiersholm;Wiersholm;981371593;advokat;sok;ledende
-28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Schjødt;Schjødt;996918122;advokat;sok;ledende
-28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Wikborg Rein;Wikborg Rein;916782195;advokat;sok;ledende
-28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Selmer;Selmer;920969798;advokat;sok;SMB + anbefaling nr 1
-28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Haavind;Haavind;986420177;advokat;sok;SMB + anbefaling nr 3
-28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;CLP;CLP;991341129;advokat;sok;SMB
-28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Simonsen Vogt Wiig;Simonsen Vogt Wiig;898783812;advokat;sok;SMB
-28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Kvale;Kvale;947996053;advokat;sok;SMB
+28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Wiersholm;Wiersholm;981371593;advokat;;
+28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Thommessen;Thommessen;957423248;advokat;;
+28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;BAHR;BAHR;919513063;advokat;;
+28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Wikborg Rein;Wikborg Rein;916782195;advokat;;
+28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Schjødt;Schjødt;996918122;advokat;;
+28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Arntzen de Besche;Arntzen Grette;982409705;advokat;;
+28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Kvale;Kvale;947996053;advokat;;
+28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Selmer;Selmer;920969798;advokat;;
+28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Ræder Bing;Ræder Bing;919100265;advokat;;
+28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;Simonsen Vogt Wiig;Simonsen Vogt Wiig;898783812;advokat;;
+28.09.2026;;T1;forretningsjus;Q1;Claude;Sonnet 5 Medium;Oslo;CMS Kluge;CMS Kluge;913296117;advokat;;
+28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;BAHR;BAHR;919513063;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Thommessen;Thommessen;957423248;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Wiersholm;Wiersholm;981371593;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Schjødt;Schjødt;996918122;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Wikborg Rein;Wikborg Rein;916782195;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Selmer;Selmer;920969798;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Haavind;Haavind;986420177;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;CLP;CLP;991341129;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Simonsen Vogt Wiig;Simonsen Vogt Wiig;898783812;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Kvale;Kvale;947996053;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;a26556c61336;a26556c61336;;advokat;sok;
-28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Brækhus;Brækhus;933326071;advokat;sok;pris og praktisk
-28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Sands;Sands;935597404;advokat;sok;pris og praktisk
+28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Brækhus;Brækhus;933326071;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;Sands;Sands;935597404;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q1;Copilot;Automatisk midlertidig chat;Oslo;13a4119677c3;13a4119677c3;;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q2;ChatGPT;gratis uten konto;Oslo;caacd3b3c84a;caacd3b3c84a;;advokat;sok;
-28.09.2026;;T1;forretningsjus;Q2;ChatGPT;gratis uten konto;Oslo;Verito;Verito;932853728;advokat;sok;kart-kort 2 + liste nr 2
-28.09.2026;;T1;forretningsjus;Q2;ChatGPT;gratis uten konto;Oslo;Flemmen & Co;Flemmen & Co;931956434;advokat;sok;liste nr 3
+28.09.2026;;T1;forretningsjus;Q2;ChatGPT;gratis uten konto;Oslo;Verito;Verito;932853728;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q2;ChatGPT;gratis uten konto;Oslo;Flemmen & Co;Flemmen & Co;931956434;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q2;ChatGPT;gratis uten konto;Oslo;baa4019ff70e;baa4019ff70e;;advokat;sok;
-28.09.2026;;T1;forretningsjus;Q2;ChatGPT;gratis uten konto;Oslo;Nordia Law;Nordia Law;919371684;advokat;sok;liste nr 5
-28.09.2026;;T1;forretningsjus;Q2;ChatGPT;gratis uten konto;Oslo;Brækhus;Brækhus;933326071;advokat;sok;liste nr 6
-28.09.2026;;T1;forretningsjus;Q2;Gemini;Flash-Lite;Oslo;Dalan;Dalan;937780265;advokat;sok;mellomsjikt | VALGT_BORT: Thommessen · Schjødt · BAHR («for kostbare» - teller ikke)
-28.09.2026;;T1;forretningsjus;Q2;Gemini;Flash-Lite;Oslo;Haavind;Haavind;986420177;advokat;;mellomsjikt | VALGT_BORT: Thommessen · Schjødt · BAHR («for kostbare» - teller ikke)
-28.09.2026;;T1;forretningsjus;Q2;Gemini;Flash-Lite;Oslo;Simonsen Vogt Wiig;Simonsen Vogt Wiig;898783812;advokat;;mellomsjikt | VALGT_BORT: Thommessen · Schjødt · BAHR («for kostbare» - teller ikke)
-28.09.2026;;T1;forretningsjus;Q2;Gemini;Flash-Lite;Oslo;Kvale;Kvale;947996053;advokat;;mellomsjikt | VALGT_BORT: Thommessen · Schjødt · BAHR («for kostbare» - teller ikke)
+28.09.2026;;T1;forretningsjus;Q2;ChatGPT;gratis uten konto;Oslo;Nordia Law;Nordia Law;919371684;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q2;ChatGPT;gratis uten konto;Oslo;Brækhus;Brækhus;933326071;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q2;Gemini;Flash-Lite;Oslo;Dalan;Dalan;937780265;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q2;Gemini;Flash-Lite;Oslo;Haavind;Haavind;986420177;advokat;;
+28.09.2026;;T1;forretningsjus;Q2;Gemini;Flash-Lite;Oslo;Simonsen Vogt Wiig;Simonsen Vogt Wiig;898783812;advokat;;
+28.09.2026;;T1;forretningsjus;Q2;Gemini;Flash-Lite;Oslo;Kvale;Kvale;947996053;advokat;;
 28.09.2026;;T1;forretningsjus;Q2;Gemini;Flash-Lite;Oslo;9385741e15b8;9385741e15b8;;advokat;sok;
-28.09.2026;;T1;forretningsjus;Q2;Gemini;Flash-Lite;Oslo;Kragerud & Co;Kragerud & Co;992433418;advokat;sok;SMB - registre | VALGT_BORT: Thommessen · Schjødt · BAHR («for kostbare» - teller ikke)
+28.09.2026;;T1;forretningsjus;Q2;Gemini;Flash-Lite;Oslo;Kragerud & Co;Kragerud & Co;992433418;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q2;Gemini;Flash-Lite;Oslo;8b1ad933d476;8b1ad933d476;;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q2;Perplexity;standard gratis avansert søk;Oslo;78b9e6235713;78b9e6235713;;advokat;sok;
-28.09.2026;;T1;forretningsjus;Q2;Perplexity;standard gratis avansert søk;Oslo;Nicolaisen;Advonico;980348202;advokat;sok;åpning + tabell | alias → Advonico (Enhetsregisteret)
+28.09.2026;;T1;forretningsjus;Q2;Perplexity;standard gratis avansert søk;Oslo;Nicolaisen;Advonico;980348202;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q2;Perplexity;standard gratis avansert søk;Oslo;0b45ec87ca46;0b45ec87ca46;;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q2;Perplexity;standard gratis avansert søk;Oslo;a1544c953fe1;a1544c953fe1;;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q2;Perplexity;standard gratis avansert søk;Oslo;18df82e5b988;18df82e5b988;;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q2;Perplexity;standard gratis avansert søk;Oslo;7e0dafef25ef;7e0dafef25ef;;advokat;sok;
-28.09.2026;;T1;forretningsjus;Q2;Claude;Sonnet 5 Medium;Oslo;INGEN;INGEN;;ingen;;6 store valgt bort -> Advokatforeningen
-28.09.2026;;T1;forretningsjus;Q2;Copilot;Automatisk midlertidig chat;Oslo;Thommessen;Thommessen;957423248;advokat;sok;større tvist + anbefaling
-28.09.2026;;T1;forretningsjus;Q2;Copilot;Automatisk midlertidig chat;Oslo;Wikborg Rein;Wikborg Rein;916782195;advokat;sok;større tvist + anbefaling
-28.09.2026;;T1;forretningsjus;Q2;Copilot;Automatisk midlertidig chat;Oslo;Hjort;Hjort;929191811;advokat;sok;større tvist + anbefaling mindre tvist
+28.09.2026;;T1;forretningsjus;Q2;Claude;Sonnet 5 Medium;Oslo;INGEN;INGEN;;ingen;;
+28.09.2026;;T1;forretningsjus;Q2;Copilot;Automatisk midlertidig chat;Oslo;Thommessen;Thommessen;957423248;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q2;Copilot;Automatisk midlertidig chat;Oslo;Wikborg Rein;Wikborg Rein;916782195;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q2;Copilot;Automatisk midlertidig chat;Oslo;Hjort;Hjort;929191811;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q2;Copilot;Automatisk midlertidig chat;Oslo;9bf13a6a90ef;9bf13a6a90ef;;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q2;Copilot;Automatisk midlertidig chat;Oslo;e1c2e63eb196;e1c2e63eb196;;advokat;sok;
-28.09.2026;;T1;forretningsjus;Q3;ChatGPT;gratis uten konto;Oslo;INGEN;INGEN;;ingen;;kriterier
-28.09.2026;;T1;forretningsjus;Q3;Gemini;Flash-Lite;Oslo;INGEN;INGEN;;ingen;;kriterier
-28.09.2026;;T1;forretningsjus;Q3;Perplexity;standard gratis avansert søk;Oslo;INGEN;INGEN;;ingen;;15 kilder
-28.09.2026;;T1;forretningsjus;Q3;Claude;Sonnet 5 Medium;Oslo;INGEN;INGEN;;ingen;;Advokatforeningen · Tilsynsrådet
-28.09.2026;;T1;forretningsjus;Q3;Copilot;Automatisk midlertidig chat;Oslo;INGEN;INGEN;;ingen;;7 kriterier + spørsmål til første møte
+28.09.2026;;T1;forretningsjus;Q3;ChatGPT;gratis uten konto;Oslo;INGEN;INGEN;;ingen;;
+28.09.2026;;T1;forretningsjus;Q3;Gemini;Flash-Lite;Oslo;INGEN;INGEN;;ingen;;
+28.09.2026;;T1;forretningsjus;Q3;Perplexity;standard gratis avansert søk;Oslo;INGEN;INGEN;;ingen;;
+28.09.2026;;T1;forretningsjus;Q3;Claude;Sonnet 5 Medium;Oslo;INGEN;INGEN;;ingen;;
+28.09.2026;;T1;forretningsjus;Q3;Copilot;Automatisk midlertidig chat;Oslo;INGEN;INGEN;;ingen;;
 28.09.2026;;T1;forretningsjus;Q4;ChatGPT;gratis uten konto;Oslo;35e8f29e3807;35e8f29e3807;;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q4;ChatGPT;gratis uten konto;Oslo;4aed9ff878ea;4aed9ff878ea;;advokat;sok;
-28.09.2026;;T1;forretningsjus;Q4;ChatGPT;gratis uten konto;Oslo;Athene Legal;Athene Legal;931767577;advokat;sok;liste nr 3
+28.09.2026;;T1;forretningsjus;Q4;ChatGPT;gratis uten konto;Oslo;Athene Legal;Athene Legal;931767577;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q4;ChatGPT;gratis uten konto;Oslo;1ae9a0798949;1ae9a0798949;;hors_panel;sok;
-28.09.2026;;T1;forretningsjus;Q4;ChatGPT;gratis uten konto;Oslo;Strandenæs;Aider Legal;835700402;advokat;sok;liste nr 5 | alias → Aider Legal (Enhetsregisteret)
+28.09.2026;;T1;forretningsjus;Q4;ChatGPT;gratis uten konto;Oslo;Strandenæs;Aider Legal;835700402;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q4;ChatGPT;gratis uten konto;Oslo;8dc37ff0b821;8dc37ff0b821;;hors_panel;sok;
-28.09.2026;;T1;forretningsjus;Q4;Gemini;Flash-Lite;Oslo;INGEN;INGEN;;ingen;;kun typer
-28.09.2026;;T1;forretningsjus;Q4;Perplexity;standard gratis avansert søk;Oslo;NB-Advokat;Nierzwicki & Bluszko;931892894;advokat;sok;liste nr 1 | alias → Nierzwicki & Bluszko (Enhetsregisteret)
-28.09.2026;;T1;forretningsjus;Q4;Perplexity;standard gratis avansert søk;Oslo;Aider Legal;Aider Legal;835700402;advokat;sok;liste nr 2
-28.09.2026;;T1;forretningsjus;Q4;Perplexity;standard gratis avansert søk;Oslo;Athene Legal;Athene Legal;931767577;advokat;sok;liste nr 3
+28.09.2026;;T1;forretningsjus;Q4;Gemini;Flash-Lite;Oslo;INGEN;INGEN;;ingen;;
+28.09.2026;;T1;forretningsjus;Q4;Perplexity;standard gratis avansert søk;Oslo;NB-Advokat;Nierzwicki & Bluszko;931892894;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q4;Perplexity;standard gratis avansert søk;Oslo;Aider Legal;Aider Legal;835700402;advokat;sok;
+28.09.2026;;T1;forretningsjus;Q4;Perplexity;standard gratis avansert søk;Oslo;Athene Legal;Athene Legal;931767577;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q4;Perplexity;standard gratis avansert søk;Oslo;8b1ad933d476;8b1ad933d476;;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q4;Perplexity;standard gratis avansert søk;Oslo;6f231d3dbd63;6f231d3dbd63;;hors_panel;sok;
-28.09.2026;;T1;forretningsjus;Q4;Claude;Sonnet 5 Medium;Oslo;INGEN;INGEN;;ingen;;4 store valgt bort -> NHO Virke Advokatforeningen
+28.09.2026;;T1;forretningsjus;Q4;Claude;Sonnet 5 Medium;Oslo;INGEN;INGEN;;ingen;;
 28.09.2026;;T1;forretningsjus;Q4;Copilot;Automatisk midlertidig chat;Oslo;65da30e4fe8c;65da30e4fe8c;;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q4;Copilot;Automatisk midlertidig chat;Oslo;2d6715264369;2d6715264369;;advokat;sok;
-28.09.2026;;T1;forretningsjus;Q4;Copilot;Automatisk midlertidig chat;Oslo;Aider Legal;Aider Legal;835700402;advokat;sok;liste nr 3 + generelle råd
+28.09.2026;;T1;forretningsjus;Q4;Copilot;Automatisk midlertidig chat;Oslo;Aider Legal;Aider Legal;835700402;advokat;sok;
 28.09.2026;;T1;forretningsjus;Q4;Copilot;Automatisk midlertidig chat;Oslo;225a7051aae0;225a7051aae0;;advokat;sok;
-28.09.2026;;T1;forretningsjus;Q5;ChatGPT;gratis uten konto;Oslo;INGEN;INGEN;;ingen;;ingen kilde navngitt
-28.09.2026;;T1;forretningsjus;Q5;Gemini;Flash-Lite;Oslo;INGEN;INGEN;;ingen;;«sterkt anbefalt» kvalitetssikring
-28.09.2026;;T1;forretningsjus;Q5;Perplexity;standard gratis avansert søk;Oslo;INGEN;INGEN;;ingen;;Altinn-mal i brødtekst
-28.09.2026;;T1;forretningsjus;Q5;Claude;Sonnet 5 Medium;Oslo;INGEN;INGEN;;ingen;;Startup Norway · Innovasjon Norge · Brønnøysund
-28.09.2026;;T1;forretningsjus;Q5;Copilot;Automatisk midlertidig chat;Oslo;INGEN;INGEN;;ingen;;«solid mal» + begrenset gjennomgang, ingen kilde
+28.09.2026;;T1;forretningsjus;Q5;ChatGPT;gratis uten konto;Oslo;INGEN;INGEN;;ingen;;
+28.09.2026;;T1;forretningsjus;Q5;Gemini;Flash-Lite;Oslo;INGEN;INGEN;;ingen;;
+28.09.2026;;T1;forretningsjus;Q5;Perplexity;standard gratis avansert søk;Oslo;INGEN;INGEN;;ingen;;
+28.09.2026;;T1;forretningsjus;Q5;Claude;Sonnet 5 Medium;Oslo;INGEN;INGEN;;ingen;;
+28.09.2026;;T1;forretningsjus;Q5;Copilot;Automatisk midlertidig chat;Oslo;INGEN;INGEN;;ingen;;
