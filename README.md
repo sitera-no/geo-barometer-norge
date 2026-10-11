@@ -17,7 +17,7 @@ Protocol: [sitering-metoden](https://github.com/sitera-no/sitering-metoden).
 Sector barometers published on sitera.no since June 2026, in machine-readable form
 (thirteen at the 18.09.2026 extraction; rekruttering utgave 3, strafferett utgave 1 and it-saas
 utgave 2 — five engines — are added in the release of 23.09.2026; forretningsjus utgave 2 — five engines, draws 28.09 and 29.09.2026 — is added in the next
-release). Four engines — ChatGPT, Gemini, Claude, Perplexity — asked a frozen set of buyer questions in
+release; arverett utgave 1 and ai-synlighet utgave 2 — five engines, draws 10.10 and 11.10.2026 — are added in the release of 11.10.2026). Four engines — ChatGPT, Gemini, Claude, Perplexity — asked a frozen set of buyer questions in
 browser sessions without personalisation, most sectors in two draws on separate days. Editions
 measured from 19.09.2026 use five engines (+ Copilot) and a denominator of 25 per draw; they are
 not comparable with the 20-cell editions and are never presented as a trend.
@@ -82,6 +82,22 @@ Known consequences, none of them corrected:
 - `forretningsjus-u2` matrices have an empty `note` column, as in the it-saas matrices: coding notes are
   internal. Alias resolution is carried by `alias_capte` → `entitet` and `orgnr`.
 - `ai-synlighet` has no numeric score column — its page reports which engines named each actor.
+- `ai-synlighet` rows are utgave 1 (June 2026, four engines, one draw). The page now shows utgave 2,
+  stored as `ai-synlighet-u2` (five engines, `/25`, two draws in `matriser/ai-synlighet-u2-2026-10-10.csv`
+  and `…-10-11.csv`). Only questions 1 and 2 are shared with utgave 1. Not compared figure for figure.
+  `Elevate Labs²` and `AI Media Norge²`: no entity under that name in Enhetsregisteret on 11.10.2026, `orgnr`
+  empty. `AIKI¹`: named by the engines, no AI-visibility service found on its own site on 11.10.2026. The
+  markers are the page's own footnotes, preserved.
+- `arverett-u1` (Oslo, five engines, draws 10.10 and 11.10.2026, matrices in `matriser/arverett-u1-…`):
+  public bodies, legal-aid services and lawyer directories are `hors_panel`, as are firms with no Oslo
+  address in Enhetsregisteret. In the T1 matrix, `hors_panel` mentions were not recorded cell by cell;
+  the T2 matrix is complete. This has no effect on any published figure.
+- `arverett-u1` and `ai-synlighet-u2` matrices: `kilde` and `note` are empty: sources were not
+  recorded row by row, and coding notes are internal. Entities below the threshold and `hors_panel` entities are
+  pseudonymised (salted hash), as in the earlier matrices. From these two editions the hash is
+  written down: the first 12 hex characters of SHA-256 over the private salt followed by the entity
+  name as coded (UTF-8). The same entity therefore keeps the same code across both draws of an edition
+  and across later editions; codes in the September matrices are not linked to these.
 - `it-saas` utgave 1 (June 2026) had no table on its page; utgave 2 (September 2026, five engines) is included with the column headings as printed (`Nivå`, `Selskap`, `Siteringsgrad`).
 - In `immaterialrett`, the firm cell contains an inline annotation glued to the name
   (`Zacco NorwaySitert i fire av fire motorer`). That is the page's own markup, preserved.
