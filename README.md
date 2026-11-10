@@ -17,7 +17,7 @@ Protocol: [sitering-metoden](https://github.com/sitera-no/sitering-metoden).
 Sector barometers published on sitera.no since June 2026, in machine-readable form
 (thirteen at the 18.09.2026 extraction; rekruttering utgave 3, strafferett utgave 1 and it-saas
 utgave 2 — five engines — are added in the release of 23.09.2026; forretningsjus utgave 2 — five engines, draws 28.09 and 29.09.2026 — is added in the next
-release; arverett utgave 1 and ai-synlighet utgave 2 — five engines, draws 10.10 and 11.10.2026 — are added in the release of 11.10.2026). Four engines — ChatGPT, Gemini, Claude, Perplexity — asked a frozen set of buyer questions in
+release; arverett utgave 1 and ai-synlighet utgave 2 — five engines, draws 10.10 and 11.10.2026 — are added in the release of 11.10.2026; entrepriserett utgave 2 and anskaffelsesrett utgave 2 — five engines, draws 09.11 and 10.11.2026 — are added in the release of 10.11.2026). Four engines — ChatGPT, Gemini, Claude, Perplexity — asked a frozen set of buyer questions in
 browser sessions without personalisation, most sectors in two draws on separate days. Editions
 measured from 19.09.2026 use five engines (+ Copilot) and a denominator of 25 per draw; they are
 not comparable with the 20-cell editions and are never presented as a trend.
@@ -98,6 +98,15 @@ Known consequences, none of them corrected:
   written down: the first 12 hex characters of SHA-256 over the private salt followed by the entity
   name as coded (UTF-8). The same entity therefore keeps the same code across both draws of an edition
   and across later editions; codes in the September matrices are not linked to these.
+- `entrepriserett-u2` and `anskaffelsesrett-u2` (national panels, five engines, draws 09.11 and 10.11.2026,
+  matrices in `matriser/<sektor>-u2-…`): the earlier rows under `entrepriserett` and `anskaffelsesrett` are
+  utgave 1 (August 2026, four engines, `/20`), questions unchanged under the same key. Not compared figure for
+  figure. Public bodies, platforms, member organisations, audit and consulting firms, and one actor without
+  verified advokatbevilling are `hors_panel`. In anskaffelsesrett T2, the control question on Perplexity was
+  asked without an account after the free quota ran out (`modell` = `Søk, uten konto`). `kilde` and `note` are
+  empty, as in the October matrices. Pseudonyms use the salt of the forretningsjus-u2 matrices, not the salt of
+  the October matrices: a code here matches the same entity in `forretningsjus-u2`, never in `arverett-u1` or
+  `ai-synlighet-u2`.
 - `it-saas` utgave 1 (June 2026) had no table on its page; utgave 2 (September 2026, five engines) is included with the column headings as printed (`Nivå`, `Selskap`, `Siteringsgrad`).
 - In `immaterialrett`, the firm cell contains an inline annotation glued to the name
   (`Zacco NorwaySitert i fire av fire motorer`). That is the page's own markup, preserved.

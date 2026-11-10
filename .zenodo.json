@@ -9,7 +9,7 @@
       "affiliation": "Sitera, Oslo, Norway"
     }
   ],
-  "description": "Published results of the Sitera GEO barometers: how often Norwegian B2B firms are named by generative AI engines (ChatGPT, Gemini, Claude, Perplexity; Copilot added for editions measured from 19.09.2026) when a buyer asks for a supplier. Measured in browser sessions without personalisation on a frozen question set, most sectors in two draws on separate days. Contains the published aggregate per firm, plus cell-level matrices for it-saas utgave 2, forretningsjus utgave 2, arverett utgave 1 and ai-synlighet utgave 2 (folder matriser/). See the README for the known gaps in the source pages, none of which are corrected.",
+  "description": "Published results of the Sitera GEO barometers: how often Norwegian B2B firms are named by generative AI engines (ChatGPT, Gemini, Claude, Perplexity; Copilot added for editions measured from 19.09.2026) when a buyer asks for a supplier. Measured in browser sessions without personalisation on a frozen question set, most sectors in two draws on separate days. Contains the published aggregate per firm, plus cell-level matrices for it-saas utgave 2, forretningsjus utgave 2, arverett utgave 1, ai-synlighet utgave 2, entrepriserett utgave 2 and anskaffelsesrett utgave 2 (folder matriser/). See the README for the known gaps in the source pages, none of which are corrected.",
   "keywords": [
     "generative engine optimization",
     "answer engine optimization",
@@ -36,5 +36,5 @@
     }
   ],
   "access_right": "open",
-  "version": "2026-10-11.1"
+  "version": "2026-11-10.1"
 }
