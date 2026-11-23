@@ -17,7 +17,7 @@ Protocol: [sitering-metoden](https://github.com/sitera-no/sitering-metoden).
 Sector barometers published on sitera.no since June 2026, in machine-readable form
 (thirteen at the 18.09.2026 extraction; rekruttering utgave 3, strafferett utgave 1 and it-saas
 utgave 2 — five engines — are added in the release of 23.09.2026; forretningsjus utgave 2 — five engines, draws 28.09 and 29.09.2026 — is added in the next
-release; arverett utgave 1 and ai-synlighet utgave 2 — five engines, draws 10.10 and 11.10.2026 — are added in the release of 11.10.2026; entrepriserett utgave 2 and anskaffelsesrett utgave 2 — five engines, draws 09.11 and 10.11.2026 — are added in the release of 10.11.2026). Four engines — ChatGPT, Gemini, Claude, Perplexity — asked a frozen set of buyer questions in
+release; arverett utgave 1 and ai-synlighet utgave 2 — five engines, draws 10.10 and 11.10.2026 — are added in the release of 11.10.2026; entrepriserett utgave 2 and anskaffelsesrett utgave 2 — five engines, draws 09.11 and 10.11.2026 — are added in the release of 10.11.2026; regnskap utgave 4 and arbeidsrett utgave 4 — five engines, draws 22.11 and 23.11.2026 — are added in the release of 23.11.2026). Four engines — ChatGPT, Gemini, Claude, Perplexity — asked a frozen set of buyer questions in
 browser sessions without personalisation, most sectors in two draws on separate days. Editions
 measured from 19.09.2026 use five engines (+ Copilot) and a denominator of 25 per draw; they are
 not comparable with the 20-cell editions and are never presented as a trend.
@@ -107,6 +107,13 @@ Known consequences, none of them corrected:
   empty, as in the October matrices. Pseudonyms use the salt of the forretningsjus-u2 matrices, not the salt of
   the October matrices: a code here matches the same entity in `forretningsjus-u2`, never in `arverett-u1` or
   `ai-synlighet-u2`.
+- `regnskap-u4` and `arbeidsrett-u4` (Oslo panels, five engines, draws 22.11 and 23.11.2026, matrices in
+  `matriser/<sektor>-u4-…`): the earlier rows under `regnskap` and `arbeidsrett` are utgave 3 (September 2026,
+  four engines, `/20`) and older; questions unchanged under the same key. Not compared figure for figure. Accounting
+  software, audit firms, member organisations, comparison services, lawyer directories and firms with no Oslo
+  address in Enhetsregisteret are `hors_panel`. A name that appears only on a map card, or that an engine cites as a
+  counter-example, is not counted and not listed. `kilde` and `note` are empty. Pseudonyms use the salt of the
+  forretningsjus-u2 matrices, as for entrepriserett-u2 and anskaffelsesrett-u2.
 - `it-saas` utgave 1 (June 2026) had no table on its page; utgave 2 (September 2026, five engines) is included with the column headings as printed (`Nivå`, `Selskap`, `Siteringsgrad`).
 - In `immaterialrett`, the firm cell contains an inline annotation glued to the name
   (`Zacco NorwaySitert i fire av fire motorer`). That is the page's own markup, preserved.
